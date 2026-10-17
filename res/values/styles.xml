@@ -1,0 +1,12 @@
+<resources>
+  <style name="Theme.Casa" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:fontFamily">sans</item><item name="android:colorAccent">#BDCEDF</item><item name="android:windowLightStatusBar">false</item>
+    <item name="android:windowBackground">#111318</item><item name="android:statusBarColor">#111318</item><item name="android:navigationBarColor">#111318</item>
+    <item name="android:windowActionModeOverlay">true</item><item name="android:windowSplashScreenBackground">#111318</item><item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_bulb</item>
+  </style>
+  <style name="Theme.Casa.Panel" parent="Theme.Casa">
+    <item name="android:windowIsFloating">true</item><item name="android:windowIsTranslucent">true</item><item name="android:backgroundDimEnabled">true</item>
+    <item name="android:windowCloseOnTouchOutside">true</item><item name="android:windowMinWidthMajor">92%</item><item name="android:windowMinWidthMinor">92%</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+  </style>
+</resources>

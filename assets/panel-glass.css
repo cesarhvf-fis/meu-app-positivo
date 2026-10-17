@@ -1,0 +1,10 @@
+/* Glass treatment only for the floating panel; the full app keeps its existing theme. */
+html.quick-panel,html.quick-panel body{background:transparent!important;border-radius:24px}
+html.quick-panel body{overflow-x:hidden}
+html.quick-panel main{background:transparent}
+html.quick-panel #phone-tabs{background:#20242a66;border-radius:0 0 24px 24px;backdrop-filter:none}
+html.quick-panel .effect-card{background:#2e333c80}
+html.quick-panel .effect-card.selected{background:#67768588}
+html.quick-panel .phone-other{background:#2e333c80}
+html.quick-panel .phone-title select{background:transparent}
+html.quick-panel input,html.quick-panel select{background-color:#282e3899}

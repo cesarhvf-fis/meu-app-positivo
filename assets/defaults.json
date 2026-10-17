@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "name": "Noite",
+      "units": [
+        {
+          "kind": "white",
+          "bright": 12,
+          "temp": 0
+        }
+      ],
+      "transition": "static",
+      "speed": 31,
+      "icon": "night"
+    },
+    {
+      "name": "Leitura",
+      "units": [
+        {
+          "kind": "white",
+          "bright": 60,
+          "temp": 40
+        }
+      ],
+      "transition": "static",
+      "speed": 31,
+      "icon": "read"
+    },
+    {
+      "name": "Trabalho",
+      "units": [
+        {
+          "kind": "white",
+          "bright": 100,
+          "temp": 75
+        }
+      ],
+      "transition": "static",
+      "speed": 31,
+      "icon": "work"
+    },
+    {
+      "name": "Lazer",
+      "units": [
+        {
+          "kind": "white",
+          "bright": 40,
+          "temp": 15
+        }
+      ],
+      "transition": "static",
+      "speed": 31,
+      "icon": "leisure"
+    },
+    {
+      "name": "Suave",
+      "units": [
+        {
+          "kind": "colour",
+          "h": 35,
+          "s": 80,
+          "v": 70
+        },
+        {
+          "kind": "colour",
+          "h": 330,
+          "s": 60,
+          "v": 40
+        }
+      ],
+      "transition": "gradient",
+      "speed": 31,
+      "icon": "soft"
+    },
+    {
+      "name": "Festa",
+      "units": [
+        {
+          "kind": "colour",
+          "h": 0,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 240,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 120,
+          "s": 100,
+          "v": 100
+        }
+      ],
+      "transition": "jump",
+      "speed": 31,
+      "icon": "party"
+    },
+    {
+      "name": "Diversão",
+      "units": [
+        {
+          "kind": "colour",
+          "h": 300,
+          "s": 100,
+          "v": 80
+        },
+        {
+          "kind": "colour",
+          "h": 180,
+          "s": 100,
+          "v": 80
+        }
+      ],
+      "transition": "gradient",
+      "speed": 31,
+      "icon": "fun"
+    },
+    {
+      "name": "Multicolorido",
+      "units": [
+        {
+          "kind": "colour",
+          "h": 0,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 60,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 120,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 180,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 240,
+          "s": 100,
+          "v": 100
+        },
+        {
+          "kind": "colour",
+          "h": 300,
+          "s": 100,
+          "v": 100
+        }
+      ],
+      "transition": "gradient",
+      "speed": 31,
+      "icon": "rainbow"
+    }
+  ]
+}
