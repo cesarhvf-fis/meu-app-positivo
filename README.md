@@ -1,4 +1,9 @@
-# Meu App Positivo — cliente Android independente
+# Meu App Positivo v1.0 — cliente Android independente
+
+Projeto idealizado e testado por [cesarhvf-fis](https://github.com/cesarhvf-fis),
+desenvolvido em colaboração com o **Codex (OpenAI)**, que auxiliou na programação,
+interface e documentação. As funcionalidades e os ajustes foram definidos e
+validados ao longo dessa colaboração.
 
 **Projeto comunitário independente e não oficial. Não é desenvolvido, mantido,
 patrocinado ou endossado pela Positivo, Tuya ou TRIGGERcmd.**
@@ -11,11 +16,13 @@ Veja o [aviso de independência, licenças e direitos](docs/DIREITOS-E-INDEPENDE
 
 Controle de lâmpadas e tomadas compatíveis com a conta Positivo Casa Inteligente,
 com interface em português, widget, ajustes rápidos e integração opcional ao TRIGGERcmd.
-Criado por [cesarhvf-fis](https://github.com/cesarhvf-fis), com assistência de IA.
+
+Veja o [guia ilustrado do aplicativo — esboço](docs/GUIA-DO-APLICATIVO.md),
+com explicações das abas e submenus e espaços reservados para os prints.
 
 ## Instalar
 
-O APK assinado fica em **Releases**, separado dos fontes. Android 8 ou posterior.
+O APK v1.0 assinado fica em **Releases**, separado dos fontes. Android 8 ou posterior.
 Cada pessoa entra com a própria conta. Não há conta de demonstração, senha,
 sessão ou configuração TRIGGERcmd do autor incorporadas no aplicativo.
 Compatibilidade foi verificada em um conjunto limitado de dispositivos; não é universal.

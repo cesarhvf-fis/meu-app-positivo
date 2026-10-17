@@ -1,6 +1,6 @@
 # Alterações
 
-## 0.15 — preparação para distribuição pública
+## 1.0 — primeira versão pública finalizada
 
 Base funcional da versão 0.14: histórico, medições, confirmações e navegação Android.
 Configuração técnica externa à árvore de fontes; scripts de compilação portáveis;

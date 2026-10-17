@@ -27,7 +27,7 @@ Exemplo (ajuste os caminhos para suas ferramentas):
   -ProtocolConfig 'D:\privado\positivo\protocol.local.json' `
   -SigningDirectory 'D:\privado\positivo\assinatura' `
   -WorkDirectory 'D:\compilacoes\positivo' `
-  -ApkOutput 'D:\releases\Meu-App-Positivo-v0.15.apk'
+  -ApkOutput 'D:\releases\Meu-App-Positivo-v1.0.apk'
 ```
 
 Se a pasta de assinatura estiver vazia, o script gera sua própria chave e senha.
